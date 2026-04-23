@@ -1,5 +1,5 @@
 # Nu Holdings — Financial Performance Analysis 2022–2025
-
+![Dashboard Preview](dashboard_preview.png)
 ## English
 
 ### Overview
