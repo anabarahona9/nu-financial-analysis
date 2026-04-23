@@ -116,5 +116,3 @@ Este proyecto analiza el desempeño financiero de **Nu Holdings (NYSE: NU)** —
 - Todos los valores absolutos están expresados en **Miles de Millones de USD (B)**
 
 ---
-
-*Project by [Ana Barahona](https://github.com/anabarahona9) | Portfolio: github.com/anabarahona9*
